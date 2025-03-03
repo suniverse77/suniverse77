@@ -11,12 +11,11 @@
   <!--CSS-->
   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
   <br/>
+  <br/>
   
   ## 🧱 Projects
-  ### Language
-  #### - B.S in.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### - Imp.<br/>
+  #### :fire: I aim 
   <br/>
   <br/>
   
