@@ -9,7 +9,7 @@
   <!--HTML5-->
   <img src="https://img.shields.io/badge/ros-22314E?style=flat-square&logo=ros&logoColor=white"/>
   <!--CSS-->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
   <br/>
   
   ## 🧱 Projects
