@@ -14,7 +14,7 @@
   <br/>
   
   ## 🧱 Projects
-  #### - Imp.<br/>
+  - Imp.<br/>
   #### :fire: I aim 
   <br/>
   <br/>
