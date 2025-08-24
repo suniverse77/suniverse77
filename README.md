@@ -7,6 +7,6 @@
 
   <br/>
 
-  (GitHub Blog)[https://suniverse77.github.io/]
+  !(GitHub Blog)[https://suniverse77.github.io/]
   
 </div>
