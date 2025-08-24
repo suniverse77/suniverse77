@@ -1,7 +1,7 @@
 <div>
   <!--Body-->
   
-  ## 👀 Education
+  ## 👀 Welcome
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--PyTorch-->
@@ -10,12 +10,6 @@
   <img src="https://img.shields.io/badge/ros-22314E?style=flat-square&logo=ros&logoColor=white"/>
   <!--CSS-->
   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-  <br/>
-  <br/>
-  
-  ## 🧱 Projects
-  - Imp.<br/>
-  #### :fire: I aim 
   <br/>
   <br/>
 
