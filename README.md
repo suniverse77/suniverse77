@@ -3,10 +3,12 @@
   
   ## :blush: Welcome
 
-  - I'm currently a student at Ajou University.
-
-  <br/>
-
   [GitHub Blog](https://suniverse77.github.io/)
+
+  ## Education
+
+  - **Ajou University** [Mar.2020 - Feb.2026]
+
+    B.S. in Electrical and Computer Engineering
   
 </div>
