@@ -3,9 +3,10 @@
   
   ## :blush: Welcome
 
-  [GitHub Blog](https://suniverse77.github.io/)
+  I document my learning journey on my blog.
+  👉 **[Visit My GitHub Blog](https://suniverse77.github.io/)** 👈
 
-  ## Education
+  ## 🎓 Education
 
   - **Ajou University** [Mar.2020 - Feb.2026]
 
