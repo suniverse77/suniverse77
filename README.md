@@ -9,7 +9,7 @@
 
   ## 🎓 Education
 
-  - **Ajou University** `Mar.2020 - Feb.2026 (Expected)`
+  - **Ajou University** `Mar.2020 - Feb.2026`
 
     B.S. in Electrical and Computer Engineering
   
